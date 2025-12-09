@@ -1,0 +1,10 @@
+[
+    {
+        "license_id": "812f7d396d4d13e55d65840c96914597d298db6d",
+        "quantity_log": 35,
+        "log_message": "O jogador **CHAMP** (license:812f7d396d4d13e55d65840c96914597d298db6d, 121) **colocou** o item **sucalixo** x35 (metadados: {\"rarity\":\"comum\"}) **no armazenamento Precision_bau** nas coordenadas -5855.736328125, -1222.6417236328, 58.278442382812.",
+        "discord_message_id": "1447948905118695435",
+        "log_timestamp": "2025-12-09T13:52:00.570000+00:00",
+        "match_type": "EXATO"
+    }
+]
