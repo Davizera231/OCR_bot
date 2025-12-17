@@ -3,7 +3,7 @@ from google.cloud import vision
 from io import BytesIO
 import json
 
-# Configurações do Google Cloud
+
 GOOGLE_CLOUD_PROJECT_ID = "turing-diode-480814-f3"
 TEXTO_ALVO = "SUCATA E BORRACHAS"
 DEBUG_JSON_PATH = "cloud_vision_spatial_debug.json" 
