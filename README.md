@@ -104,7 +104,7 @@ CREATE TABLE orcamentos_itens (
 ## Comandos do Bot (Discord)
 
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 
 ## Estrutura do Projeto
