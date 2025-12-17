@@ -6,7 +6,7 @@ import json
 
 GOOGLE_CLOUD_PROJECT_ID = "turing-diode-480814-f3"
 TEXTO_ALVO = "SUCATA E BORRACHAS"
-DEBUG_JSON_PATH = "cloud_vision_spatial_debug.json" 
+DEBUG_JSON_PATH = r"C:\Users\dsand\OneDrive\Área de Trabalho\OCR_bot\logs" 
 
 def get_vision_client():
     return vision.ImageAnnotatorClient(

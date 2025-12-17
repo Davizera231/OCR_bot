@@ -3,7 +3,7 @@ import mysql.connector
 from io import BytesIO
 from PIL import Image
 
-from ocr_processor import extrair_quantidade_sucata, TEXTO_ALVO 
+from src.ocr_processor import extrair_quantidade_sucata, TEXTO_ALVO 
 import re
 import time
 from typing import Optional, Dict, List, Tuple
